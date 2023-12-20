@@ -13,7 +13,7 @@ all_characters = ["Antonio", "Imelda", "Pasqualina", "Gennaro", "Arca", "Porta",
 
 
 # List of weapons in base game
-base_game_weapons = ["Whip", "Magic Wand", "Knife", "Axe", "Cross", "King Bible", "Fire Wand", "Garlic", "Santa Water", "Rune Tracer", "Lightning Ring" "Pentagram", "Peachone", "Ebony Wings", "Phiera Der Tuphello",
+base_game_weapons = ["Whip", "Magic Wand", "Knife", "Axe", "Cross", "King Bible", "Fire Wand", "Garlic", "Santa Water", "Rune Tracer", "Lightning Ring", "Pentagram", "Peachone", "Ebony Wings", "Phiera Der Tuphello",
             "Eight The Sparrow", "Gatti Amari", "Song of Mana", "Shadow Pinion", "Clock Lancet", "Laurel", "Vento Sacro", "Bone", "Cherry Bomb", "Carrello", "Celestial Dusting", "La Robba", "Greatest Jubillee",
             "Bracelet", "Candybox", "Victory Sword", "Flame of Misspell", "Glass Fandango"]
 

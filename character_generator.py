@@ -22,7 +22,7 @@ passive_items = ["Spinach", "Armor", "Hollow Heart", "Pummarola", "Empty Tome", 
 
 def generate_random_build():
     character = random.choice(all_characters)
-    weapon = random.sample(base_game_weapons, 5)
+    weapon = random.sample(base_game_weapons, 6)
     passive_item = random.sample(passive_items, 6)
 
     return f"Character: {character}\nWeapon: {weapon}\nPassive Item: {passive_item}"
